@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Software Engineering at [Booking.com](https://booking.com)
+
+- 👷 Working with `.java`, `.ts`, `.jl`, `.hs`
+- 🌱 Interested in stochastics and language
+- 💬 Talk to me about distributed computing and the cloud
+- 📫 Reach me at [atour@atour.me](mailto:atour@atour.me)
+
 <!--
 **amousavigourabi/amousavigourabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
