@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
 
-Software Engineering at [Booking.com](https://booking.com)
+Software Engineering at [Booking.com](https://booking.com/)
 
 - 👷 Working with `.java`, `.ts`, `.jl`, `.hs`
+- 🛩️ Love to travel
 - 🌱 Interested in stochastics and language
 - 💬 Talk to me about distributed computing and the cloud
 - 📫 Reach me at [atour@atour.me](mailto:atour@atour.me)
