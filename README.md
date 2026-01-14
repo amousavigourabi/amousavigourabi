@@ -2,7 +2,7 @@
 
 Software Engineering at [Booking.com](https://booking.com/)
 
-- 👷 Working with `.java`, `.ts`, `.py`, `.jl`, `.hs`
+- 👷 Working with `.java`, `.ts`, `.py`, `.jl`, `.hs`, and `.svelte`
 - 🌱 Interested in stochastics and language
 - 🛩️ Love to travel
 - 💬 Talk to me about distributed computing and the cloud
